@@ -7,7 +7,7 @@ git clone https://github.com/RakhfanJimshaf/Click-checker.git
 
 cd Click-checker
 
-chmod -x clickjacking.sh
+chmod 755 clickjacking.sh
 
 ./clickjacking.sh
 ```
